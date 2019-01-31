@@ -1,0 +1,36 @@
+
+.img3{
+  height: 100px;
+}
+
+.imgbottom{
+  height: 300px;
+}
+
+.leaft, .center, .right{
+  text-align: center;
+}
+
+h1{
+  color: green;
+  font-size: 20px;
+}
+
+.leaft >hr{
+  width: 30px;
+  border: 2px solid green;
+}
+
+.center >hr{
+  width: 30px;
+  border: 2px solid green;
+}
+
+.right >hr{
+  width: 30px;
+  border: 2px solid green;
+}
+
+.end-main{
+  margin-top: 10%;
+}

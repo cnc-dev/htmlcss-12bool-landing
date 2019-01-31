@@ -1,7 +1,6 @@
 .container{
   margin: auto;
-  max-width: 1280px;
-  background-color: lightgrey;
+  max-width: 1080px;
   box-sizing: border-box;
   padding: 10px;
 }
@@ -14,9 +13,6 @@
 
 .lft{
   float: left;
-  text-align: center;
-  background: white;
-  border-radius: 10px;
   margin: auto;
   padding: 10px;
   box-sizing: border-box;
@@ -24,9 +20,8 @@
 
 .rht{
   float: right;
-  text-align: center;
-  background: white;
-  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
   box-sizing: border-box;
 }
 
